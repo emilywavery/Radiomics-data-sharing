@@ -5,8 +5,11 @@ The five compressed .csv files provide the values of all extracted radiomics fea
 
 Radiomics_YaleTrainingCV_ShortTermFollowUP.csv
 
-Radiomics _YaleTrainingCV_LongTermFollowUP.csv; 
-Radiomics _YaleIndependent_ShortTermFollowUP.csv; 
-Radiomics _YaleIndependent_LongTermFollowUP.csv; 
+Radiomics _YaleTrainingCV_LongTermFollowUP.csv
+
+Radiomics _YaleIndependent_ShortTermFollowUP.csv
+
+Radiomics _YaleIndependent_LongTermFollowUP.csv
+
 Radiomics _Geisinger_LongTermFollowUP.csv
 
